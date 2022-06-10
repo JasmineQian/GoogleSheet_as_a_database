@@ -1,0 +1,2 @@
+pygsheets~=2.0.5
+gspread~=5.4.0
